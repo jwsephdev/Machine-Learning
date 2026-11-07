@@ -1,5 +1,7 @@
-# Machine Learning Practice
+# Machine Learning
 
-## Python Libaries
+Documentation and Archive for my journey of learning Machine Learning.
 
-`` scikit-Learn `` , `` numpy ``,`` pandas ``
+## Libaries
+
+`` scikit-Learn `` , `` numpy `` , `` pandas ``
