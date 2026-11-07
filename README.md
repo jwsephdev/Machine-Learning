@@ -2,6 +2,6 @@
 
 Documentation and Archive for my journey of learning Machine Learning.
 
-## Libaries
+## Libraries
 
 `` scikit-Learn `` , `` numpy `` , `` pandas ``
